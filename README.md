@@ -1,3 +1,3 @@
-# CMU-SUMMER-INTERN-APPLY
+# PHD Application
 
-## Personal used for CMU summer intern application
+## Personal used for Ph.D application including coding experiences and courses syllabus.
